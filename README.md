@@ -2,7 +2,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-red?style=social&logo=instagram)](https://instagram.com/zubayra_khalimov?)
 
 #### Стэк технологий c которым я работал :
-
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img align="left" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img align="left" alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
@@ -12,9 +11,10 @@
 <img align="left" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img align="left" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img align="left" alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 
-### Мои проекты:
+<!-- ### Мои проекты :
+ - Online-чат  [Код](https://github.com/Khalimov-Z/react-chat) / [Demo](https://intense-island-55096.herokuapp.com/)
+ - Сайт рецептов  [Код](https://github.com/Khalimov-Z/project-recipes) / [Demo](https://blooming-castle-56069.herokuapp.com/)
 
-* Online-чат  [Код](https://github.com/Khalimov-Z/react-chat) / [Demo](https://intense-island-55096.herokuapp.com/)
-* Сайт рецептов  [Код](https://github.com/Khalimov-Z/project-recipes) / [Demo](https://blooming-castle-56069.herokuapp.com/)
-
+ -->
