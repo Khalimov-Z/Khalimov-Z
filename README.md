@@ -1,5 +1,4 @@
 ## Приветствую вас! Меня зовут Зубайра и я Frontend-разработчик
-[![Instagram](https://img.shields.io/badge/Instagram-red?style=social&logo=instagram)]
 
 ### Стэк технологий, c которыми я работаю :
 <img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
